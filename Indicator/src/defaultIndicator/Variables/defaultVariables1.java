@@ -11,3 +11,4 @@ public class defaultVariables1 {
 		System.out.println(defaultVariables1.banana);
 	}
 }
+/***Å×½ºÆ®*/
